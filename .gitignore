@@ -1,0 +1,23 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.h2.db
+*.log
+
+# Maven
+target/
+*.iml
+
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
